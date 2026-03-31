@@ -1,0 +1,14 @@
+{
+  "name": "sopa-learning-guide",
+  "version": "1.0.0",
+  "private": true,
+  "description": "지피터스 실습반장 SOPA의 AI 도구 학습 가이드",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  }
+}
