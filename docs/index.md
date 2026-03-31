@@ -11,7 +11,7 @@ hero:
       link: /gws-cli/intro
     - theme: alt
       text: GitHub
-      link: https://github.com
+      link: https://github.com/SOPA5/sopa-learning-guide
 
 features:
   - icon: 🚀
